@@ -22,7 +22,7 @@ background-image: url('/assets/Hero-bg.png');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-
+background-color: white;
 }
 /* 2nd image in first banner */
 .group-image{
@@ -61,7 +61,7 @@ letter-spacing: 0;
 /* second section starts here */
 .second-section-container{
 width: 1440px;
-height: 1650px;
+height: 1375px;
 border-radius: 16px;
 /* border: 2px solid red; */
 margin: 0 auto;
@@ -78,7 +78,7 @@ margin-bottom: 98px;
     
     letter-spacing: 0%;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 50px;
     margin: 48px;
     margin-bottom: 98px;
 }
@@ -104,6 +104,7 @@ margin-bottom: 98px;
 align-items: center;
 margin-left: 248px;
 }
+
 .left-side-content{
     width: 50%;
     height: 100%;
@@ -201,3 +202,122 @@ Align: Align left
     text-align: left;
     
    }
+.my-inspiration{
+    background: rgb(255, 255, 255);
+    width: 1440px;
+    height: 1077px;
+    left: 148px;
+    right: 152px;
+    top: 2340px;
+    bottom: 2128px;
+
+
+}
+
+.my-inspiration h2{
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    margin-top: 100px;
+   margin-bottom: 35px;
+}
+.my-inspiration p {
+    
+    font-size: 22px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.youtube-{
+    width: 1440px;
+    height: 700px;
+    margin-top: 68px;
+align-items: center;
+margin-bottom: 50px;
+}
+.portfolio-text-container{
+width: 1448px;
+height: 1100px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 200px;
+}
+.portfolio-text-container h2 {
+    font-size: 38px;
+    margin-top: 100px;
+    margin-bottom: 50;
+    font-weight: 800;
+    line-height: 37px;
+text-align: center;
+
+}
+.portfolio-text-container p {
+    font-size: 25px;
+   margin-top: 50px;
+
+
+}
+.thripple-border{
+margin: 48px 0;
+display: flex;
+
+}
+
+.first-box{
+height: 450px;
+width: 470px;
+margin-right: 20px;
+background-color: burlywood;
+border: 2px solid green;
+position: relative;
+
+display: inline;
+}
+
+.second-box{
+    height: 450px;
+    width: 467px;
+    margin-right: 20px;
+    background-color: rgb(176, 140, 85);
+    border: 2px solid yellow;
+}
+.third-box{
+    height: 450px;
+    width: 467px;
+   background-color: rgb(115, 133, 127);
+border: 2px solid red;
+}
+.html{
+    padding-left: 15px;
+    padding-top: 10px;
+display: flex;
+display: inline;
+text-align: center;
+}
+.css{
+    padding-left: 15px;
+    padding-top: 10px;
+
+}
+.java{
+    padding-left: 15px;
+    padding-top: 10px;
+
+}
+.first-box h2 {
+    padding-left: 30px;
+    padding-top: 0;
+text-align: left;
+}
+.second-box h2 {
+    padding-left: 30px;
+    padding-top: 0;
+text-align: left;
+}
+.third-box h2 {
+    padding-left: 30px;
+    padding-top: 0;
+text-align: left;
+}
