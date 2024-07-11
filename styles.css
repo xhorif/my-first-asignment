@@ -17,7 +17,7 @@ margin: 0 auto;
 /* border: 2px solid red; */
 min-height: 652px;
 margin-top: 20px;
-background-image: url('../assets/Hero-bg.png');
+background-image: url('./assets/Hero-bg.png');
 /* background-image: url('/assets/Group.png'); */
 background-position: center;
 background-repeat: no-repeat;
@@ -155,11 +155,11 @@ text-align: right;
 
 }
 .second-banner h2{
-    margin-bottom: ;
-    Font weight: 700
+    /* margin-bottom: ;
+    font-weight: 700;
     font-size: 12px;
     Row height: 36px
-    Align: Align left
+    Align: Align left */
 
 }
    .holiday-section-container{
@@ -187,11 +187,11 @@ text-align: right;
    .holiday-section-container h1 {
    margin-bottom: 20px;
    margin-left: 10px;
-    Font weight: 700
-    font-size: 24px;
+    /* Font weight: 700 */
+    /* font-size: 24px; */
     
 
-Align: Align left
+/* Align: Align left */
 
    }
    .holiday-section-container p {
@@ -329,7 +329,7 @@ text-align: left;
     width: 1140px;
 height: 314px;
 margin: 0 auto;
-background-image: url('../assets/handshake.jpg');
+background-image: url('./assets/handshake.jpg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
