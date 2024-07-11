@@ -331,7 +331,7 @@ text-align: left;
 height: 314px;
 /* border: 2px solid red; */
 margin: 0 auto;
-/* background-image: url('/assets/handshake.jpg'); */
+background-image: url('/assets/handshake.jpg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
