@@ -240,7 +240,7 @@ margin-bottom: 50px;
 .portfolio-text-container{
 width: 1448px;
 height: 1100px;
-border: 2px solid red;
+/* border: 2px solid red; */
 margin: 0 auto;
 margin-top: 200px;
 }
@@ -270,7 +270,7 @@ height: 450px;
 width: 470px;
 margin-right: 20px;
 background-color: burlywood;
-border: 2px solid green;
+/* border: 2px solid green; */
 position: relative;
 
 display: inline;
@@ -281,13 +281,14 @@ display: inline;
     width: 467px;
     margin-right: 20px;
     background-color: rgb(176, 140, 85);
-    border: 2px solid yellow;
 }
+    /* border: 2px solid yellow;
+} */
 .third-box{
     height: 450px;
     width: 467px;
    background-color: rgb(115, 133, 127);
-border: 2px solid red;
+/* border: 2px solid red; */
 }
 .html{
     padding-left: 15px;
@@ -328,7 +329,7 @@ text-align: left;
 .intresting-section{
     width: 1140px;
 height: 314px;
-border: 2px solid red;
+/* border: 2px solid red; */
 margin: 0 auto;
 background-image: url('/assets/handshake.jpg');
 background-position: center;
@@ -376,7 +377,7 @@ color: white;
 .footer-container{
     width: 1440px;
     height: 100px;;
-border: 2px solid green;
+/* border: 2px solid green; */
 margin: 0 auto;
 margin-top: 50px;
 display: flex;
