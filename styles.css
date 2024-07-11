@@ -17,7 +17,7 @@ margin: 0 auto;
 /* border: 2px solid red; */
 min-height: 652px;
 margin-top: 20px;
-background-image: url('/assets/Hero-bg.png');
+background-image: url('../assets/Hero-bg.png');
 /* background-image: url('/assets/Group.png'); */
 background-position: center;
 background-repeat: no-repeat;
@@ -329,12 +329,12 @@ text-align: left;
     width: 1140px;
 height: 314px;
 margin: 0 auto;
-background-image: url('/assets/Hero-bg.png');
+background-image: url('../assets/handshake.jpg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
 }
-.
+
 .text-container{
 
 
