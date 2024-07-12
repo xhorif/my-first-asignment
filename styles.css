@@ -23,6 +23,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 background-color: white;
+border-radius: 30px;
 }
 /* 2nd image in first banner */
 .group-image{
@@ -120,17 +121,20 @@ margin-bottom: 98px;
  justify-content: center;
 align-items: center;
 margin-left: 248px;
+border-radius: 16px
 }
 
 .left-side-content{
     width: 50%;
     height: 100%;
+    /* border-radius: 16px; */
    /* border: 2px solid green; */
 
 }
 .right-side-content{
         width: 50%;
         height: 100%;
+        border-radius: 26px;
         /* border: 2px solid yellow; */
         text-align: right;
 }
@@ -193,6 +197,8 @@ width: 50%;
 height: 100%;
 /* border: 2px solid green; */
    }
+ 
+
    .right-img-container{
     width: 50%;
     height: 100%;
@@ -252,6 +258,7 @@ margin-bottom: 48px;
     margin-top: 68px;
 align-items: center;
 margin-bottom: 50px;
+border-radius: 30px;
 }
 .portfolio-text-container{
 width: 1448px;
@@ -349,6 +356,7 @@ background-image: url('./assets/handshake.jpg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
+border-radius: 20px;
 }
 
 .text-container{
